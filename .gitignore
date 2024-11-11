@@ -1,2 +1,5 @@
 src/data/
 *.jpg
+__pycache__/
+*.log
+myws/checkpoint/*
