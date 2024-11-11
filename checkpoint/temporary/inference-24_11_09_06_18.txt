@@ -1,0 +1,1 @@
+loss_test	err_test	err_x	err_y	err_z	
